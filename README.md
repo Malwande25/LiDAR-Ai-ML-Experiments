@@ -1,0 +1,11 @@
+## 📊 Current Progress
+- [x] Setup repository  
+- [ ] Data collection & visualization  
+- [ ] Obstacle detection with ML  
+- [ ] Denoising with autoencoders  
+- [ ] Sensor fusion (LiDAR + camera)  
+- [ ] Trajectory prediction with LSTM  
+- [ ] Anomaly detection  
+- [ ] Shape classification with PointNet  
+- [ ] RL for path planning  
+- [ ] Predictive maintenance  
