@@ -1,0 +1,11 @@
+# Core dependencies
+notebook
+pandas
+matplotlib
+numpy
+
+# Optional but useful
+plotly          # interactive visualizations
+scikit-learn    # ML models (for later projects)
+torch           # PyTorch (deep learning)
+tensorflow      # TensorFlow (alternative deep learning)
